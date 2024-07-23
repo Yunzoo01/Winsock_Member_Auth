@@ -10,7 +10,7 @@ This project is a personal endeavor to understand Winsock and packet communicati
 ## 🌻Getting Started
 - Development Environment: Windows 10 Pro
 - Development Tools: Visual Studio Community 2019
-- Technology Stack: C++, Winsock
+- Technology Stack: C++, Windows API
 
 ## 🌻Result
 ![image](https://github.com/user-attachments/assets/78f36a8f-bf5d-4795-8fb8-bc854223e85b)
